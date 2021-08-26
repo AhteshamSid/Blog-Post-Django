@@ -122,8 +122,8 @@ USE_TZ = True
 #                     ]
 
 
-AWS_ACCESS_KEY_ID = 'AKIAREY24VQCEARCNK7U'
-AWS_SECRET_ACCESS_KEY = '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'
+AWS_ACCESS_KEY_ID = '*******************************'
+AWS_SECRET_ACCESS_KEY = '*******************************8'
 AWS_STORAGE_BUCKET_NAME = 'therepair'
 AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 AWS_S3_OBJECT_PARAMETERS = {
