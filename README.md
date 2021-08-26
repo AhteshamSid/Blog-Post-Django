@@ -1,5 +1,6 @@
 # Blog-Post-Django
-```You should provide a  new user registration page, which should contain three inputs i.e 
+```
+You should provide a  new user registration page, which should contain three inputs i.e 
 Username, 
 Password, 
 Confirm Password, and 
