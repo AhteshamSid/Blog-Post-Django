@@ -1,4 +1,6 @@
 # Blog-Post-Django
+Demo live [click](https://sblogsappdjango.herokuapp.com/).
+
 ```
 You should provide a  new user registration page, which should contain three inputs i.e 
 Username, 
