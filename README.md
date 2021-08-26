@@ -40,3 +40,6 @@ The user should be able to Log out and be reverted back to the login page.
 
 ## POST DELETE UPDATE
 <img src="pic/details.jpg" >
+
+## UPDATE POST
+<img src="pic/update.jpg" >
