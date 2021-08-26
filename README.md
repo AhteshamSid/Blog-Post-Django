@@ -20,3 +20,21 @@ a link to create new articles(Shown in Step-3).
 Logged in users should have the ability to search other users and look at their PUBLIC articles only(exclude the PRIVATE articles). 
 The user should be able to Log out and be reverted back to the login page.
 ```
+
+## Homepage
+<img src="pic/home.jpg" >
+
+## SIGNUP
+<img src="pic/signup.jpg" >
+
+## LOGIN
+<img src="pic/login.jpg" >
+
+## USER POST
+<img src="pic/userpost.jpg" >
+
+## CREATE POST 
+<img src="pic/createpost.jpg" >
+
+## POST DELETE UPDATE
+<img src="pic/details.jpg" >
