@@ -11,13 +11,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-# SECRET_KEY = '=%fnoc7(*+p^!(-_nf&++i800_=5^i6508-k@fz4wuk7=7l0^f'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 if DEBUG:
-    SECRET_KEY = 'viw2+)*ok79&ytn-t5_1#96dy3c)g7swvfg(lg+7i+j3aw^1!r'
+    SECRET_KEY = 'Secret_key'
 else:
     SECRET_KEY = os.environ['SECRET_KEY']
 
@@ -123,8 +122,8 @@ USE_TZ = True
 
 
 AWS_ACCESS_KEY_ID = '*******************************'
-AWS_SECRET_ACCESS_KEY = '*******************************8'
-AWS_STORAGE_BUCKET_NAME = 'therepair'
+AWS_SECRET_ACCESS_KEY = '********************************'
+AWS_STORAGE_BUCKET_NAME = 'theblog'
 AWS_S3_CUSTOM_DOMAIN = '%s.s3.amazonaws.com' % AWS_STORAGE_BUCKET_NAME
 AWS_S3_OBJECT_PARAMETERS = {
     'CacheControl': 'max-age=86400',
